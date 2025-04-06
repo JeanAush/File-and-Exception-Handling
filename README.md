@@ -1,1 +1,2 @@
 # File-and-Exception-Handling
+## managing files efficiently in Python, ensuring error-free code that gracefully handles unexpected issues. Mastering files and exception handling will allow you to build strong, robust applications!
